@@ -13039,6 +13039,7 @@ a.full-width-icon:hover .social-text {
     margin-left: 35%!important;
     color: white;
 }
+
 }
 
 @-webkit-keyframes steam {
@@ -13356,7 +13357,7 @@ padding: 6.25rem 0;
 
 .slider-main-title {
 	
-	margin-top: 140px !important;
+	margin-top: -40px !important;
 }
 	  
 
@@ -13364,4 +13365,14 @@ padding: 6.25rem 0;
 	margin-top: -110px!important;
 	margin-left: 60%!important;
 	color: white;
+}
+
+
+@media (min-width: 481px) {
+	.slider-main-title {
+		
+		margin-right: 200px !important;
+		text-align: center !important;
+	}
+
 }
