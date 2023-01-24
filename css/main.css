@@ -68,6 +68,7 @@ Version: 		1.0.0
 	margin-right: -.25em;
 }
 
+
 .preloader.loaded {
 	opacity: 0;
 	visibility: hidden;
@@ -13033,6 +13034,11 @@ a.full-width-icon:hover .social-text {
 	.owl-carousel.owl-custom-nav .owl-controls {
 		display: none;
 	}
+	.about-us-banner {
+    margin-top: -43px!important;
+    margin-left: 35%!important;
+    color: white;
+}
 }
 
 @-webkit-keyframes steam {
@@ -13122,7 +13128,7 @@ a.full-width-icon:hover .social-text {
 
 .visual-inner {
 	/* background-color: red !important; */
-	background-image: url('../img/new/ABout2.webp');
+	background-image: url('../img/new/ABoutus.webp');
 }
 
 
@@ -13134,13 +13140,13 @@ a.full-width-icon:hover .social-text {
 
 
 .visual-inne {
-background-image: url('../img/new/contact\ us\ 2.webp');
+background-image: url('../img/new/contact\ us\ 1920X400.webp');
 padding: 6.25rem 0;
 }
-.visual-inner {
-background-image: url('../img/new/ABout2.webp');
+/* .visual-inner {
+background-image: url('../img/new/About\ Us\ A.jpg');
 padding: 6.25rem 0;
-}
+} */
 
 
 .visual-no-bg .visual-inne {
@@ -13350,6 +13356,12 @@ padding: 6.25rem 0;
 
 .slider-main-title {
 	
-	margin-top: 100px !important;
+	margin-top: 140px !important;
 }
 	  
+
+.about-us-banner{
+	margin-top: -110px!important;
+	margin-left: 60%!important;
+	color: white;
+}
